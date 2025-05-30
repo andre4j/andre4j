@@ -1,7 +1,5 @@
-<h2>Minha Stack!</h2>
-
 <div align="center">
-  <h2>Minha Stack!</h2>
+  <h2>Minha Stack! ✨</h2>
   <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
     <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
@@ -19,6 +17,9 @@
     </p>
 </div>
 
-<h2>Vamos nos conectar!</h2>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrevalverdebrazil/)
+<div align="center">
+  <h2>Vamos nos conectar!</h2>
+  <a href="https://www.linkedin.com/in/andrevalverdebrazil/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
