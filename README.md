@@ -1,5 +1,3 @@
-arrume esse readme, adicione, react, next, nest, node, 
-
 <div align="center">
   <h2>Minha Stack! ✨</h2>
   <p>
