@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Sejam bem vindo ao meu perfil no Github! 🖖</h2>
-  <strong>Esse perfil é um usuário de Linux e Arch Linux 🐧</strong>
+  <strong>Aqui vive um entusiasta do Linux, fiel ao Arch Linux! 🐧</strong>
   <br><br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
