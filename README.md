@@ -1,7 +1,9 @@
 <div align="center">
   <h2>Sejam bem vindo ao meu perfil no Github! 🖖</h2>
-  <strong>Aqui vive um entusiasta do Linux, fiel ao Arch Linux! 🐧</strong>
+  <strong>Aqui vive um entusiasta do Linux e open source, fiel ao Arch Linux! 🐧</strong>
   <br><br>
+  <img src="https://img.shields.io/badge/Firefox-FF5700?style=for-the-badge&logo=firefox&logoColor=black" alt="Firefox"/>
+  <img src="https://img.shields.io/badge/Neovim-528bff?style=for-the-badge&logo=neovim&logoColor=black" alt="Neovim"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
 </div>
