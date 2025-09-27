@@ -1,11 +1,5 @@
 <div align="center">
   <h2>Sejam bem vindo ao meu perfil no Github! 🖖</h2>
-  <strong>Aqui vive um entusiasta do Linux e open source, fiel ao Arch Linux! 🐧</strong>
-  <br><br>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=000" alt="Linux" style="height:30px;"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnubash&logoColor=000" alt="Bash" style="height:30px;"/>
-  <img src="https://img.shields.io/badge/Neovim-528bff?style=plastic&logo=neovim&logoColor=fff" alt="Neovim" style="height:30px;"/>
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=plastic&logo=arch-linux&logoColor=fff" alt="Arch Linux" style="height:30px;"/>
 </div>
 
 <div align="center">
@@ -21,6 +15,9 @@
     <img src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=fff" alt="Go" style="height:30px;"/>
     <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=plastic&logo=apachekafka&logoColor=fff" alt="Apache Kafka" style="height:30px;"/>
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=plastic&logo=terraform&logoColor=fff" alt="Terraform" style="height:30px;"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=000" alt="Linux" style="height:30px;"/>
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnubash&logoColor=000" alt="Bash" style="height:30px;"/>
+    <img src="https://img.shields.io/badge/Neovim-528bff?style=plastic&logo=neovim&logoColor=fff" alt="Neovim" style="height:30px;"/>
   </p>
 </div>
 
