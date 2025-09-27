@@ -5,6 +5,7 @@
 <div align="center">
   <h2>Minha Stack! ✨</h2>
   <p>
+    <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat" alt="Node" style="height:30px;"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=fff" alt="Java" style="height:30px;"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=fff" alt="Spring" style="height:30px;"/>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff" alt="PostgreSQL" style="height:30px;"/>
