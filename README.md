@@ -7,7 +7,6 @@
   <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD43B" alt="Python" style="height:30px;"/>
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=fff" alt="Go" style="height:30px;"/>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=fff" alt="Spring" style="height:30px;"/>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=fff" alt="AWS" style="height:30px;"/>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff" alt="PostgreSQL" style="height:30px;"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff" alt="MongoDB" style="height:30px;"/>
