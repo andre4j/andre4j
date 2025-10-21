@@ -5,12 +5,12 @@
 <div align="center">
   <h2>Minha Stack! ✨</h2>
   <p>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=fff" alt="Next.js" style="height:30px;"/>
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=fff" alt="NestJS" style="height:30px;"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000" alt="React" style="height:30px;"/>
-    <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat" alt="Node" style="height:30px;"/>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=fff" alt="AWS" style="height:30px;"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD43B" alt="Python" style="height:30px;"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=fff" alt="FastAPI" style="height:30px;"/>
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=000" alt="Power BI" style="height:30px;"/>
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=fff" alt="Azure" style="height:30px;"/>
+    <img src="https://img.shields.io/badge/Azure%20SQL%20Database-0078D4?style=flat&logo=microsoftsqlserver&logoColor=fff" alt="Azure SQL Database" style="height:30px;"/>
+    <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=fff" alt="Excel" style="height:30px;"/>
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=fff" alt="Go" style="height:30px;"/>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff" alt="PostgreSQL" style="height:30px;"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff" alt="MongoDB" style="height:30px;"/>
@@ -19,7 +19,6 @@
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=fff" alt="Terraform" style="height:30px;"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000" alt="Linux" style="height:30px;"/>
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=000" alt="Bash" style="height:30px;"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=fff" alt="Java" style="height:30px;"/>
   </p>
 </div>
 
