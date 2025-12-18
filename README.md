@@ -1,6 +1,4 @@
-<div align="center">
-  <h2>Sejam bem vindo ao meu perfil no Github! 🖖</h2>
-</div>
+<h2>Sejam bem vindo ao meu perfil no Github! 🖖</h2>
 
 <br>
 
