@@ -2,10 +2,12 @@
   <h2>Sejam bem vindo ao meu perfil no Github! 🖖</h2>
 </div>
 
+<br>
+
 <div align="center">
   <h2>Minha Stack! ✨</h2>
+  <br>
   <p>
-    <!-- Core Web -->
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff" alt="Node.js" style="height:30px;"/>
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=fff" alt="NestJS" style="height:30px;"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000" alt="React" style="height:30px;"/>
@@ -21,7 +23,9 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff" alt="MongoDB" style="height:30px;"/>
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=fff" alt="Go" style="height:30px;"/>
   </p>
-</div>
+</div
+
+<br>
 
 <div align="center">
   <h2>Vamos nos conectar!</h2>
