@@ -24,6 +24,27 @@
 
 ---
 
+### 🏆 Certificações Oficiais AWS
+<div align="center">
+  <a href="https://www.credly.com/badges/9fc88423-9b3f-4084-8e5d-77d1ffc44d0c/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="130" alt="AWS Certified Solutions Architect – Associate" title="AWS Certified Solutions Architect – Associate"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/8c8b0a1a-b66f-45a8-a0c0-e0b065733e0c/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="130" alt="AWS Certified Developer – Associate" title="AWS Certified Developer – Associate"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/60ba7641-64bb-44f2-9be7-48d6e7395066/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="130" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner"/>
+  </a>
+  <br/><br/>
+  <a href="https://www.credly.com/users/devandrets/badges" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-Verificar_Todas_as_Credenciais-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Verificar no Credly"/>
+  </a>
+</div>
+
+---
+
 ### 🛠️ Tecnologias & Ferramentas
 
 **Backend & Runtimes**  
@@ -40,13 +61,7 @@
 
 ---
 
-### 🏆 Certificações Oficiais AWS
-* 🏅 **AWS Certified Solutions Architect – Associate** (2025)
-* 🏅 **AWS Certified Developer – Associate** (2025)
-* 🏅 **AWS Certified Cloud Practitioner** (2024)
-
----
-
 <div align="center">
   <p><i>Focado em arquiteturas distribuídas, código limpo e soluções escaláveis no backend.</i></p>
 </div>
+
